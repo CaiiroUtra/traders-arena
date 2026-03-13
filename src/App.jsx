@@ -1,3 +1,4 @@
+const API_URL = "https://traders-arena-production.up.railway.app";
 import { useState, useRef, useEffect } from "react";
 
 const css = `
